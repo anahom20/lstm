@@ -1,2 +1,2 @@
 # lstm
-sample project using long short-term memory networks
+warehouse order prediction and prioritisation using long short-term memory networks sample project
